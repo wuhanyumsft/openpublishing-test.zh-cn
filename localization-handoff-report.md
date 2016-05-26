@@ -6,16 +6,16 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [openpublishing\test\abtesting\UM-New-Content-Experiment.png](https://github.com/Microsoft/openpublishing-test/blob/65c9d0774bdffbe9be8931506783e8570bf1275a/openpublishing/test/abtesting/UM-New-Content-Experiment.png) | HandedOffSuccess | [Details](#9880407fcee1bdacd4b99a78656f846b39beb4ce22)
- [openpublishing\test\abtesting\UM-Prerequisite.png](https://github.com/Microsoft/openpublishing-test/blob/65c9d0774bdffbe9be8931506783e8570bf1275a/openpublishing/test/abtesting/UM-Prerequisite.png) | HandedOffSuccess | [Details](#807e1fd2ee56ea6d3cb6175a427b44b47145865223)
- [openpublishing\test\abtesting\users-manual-content.md](https://github.com/Microsoft/openpublishing-test/blob/65c9d0774bdffbe9be8931506783e8570bf1275a/openpublishing/test/abtesting/users-manual-content.md) | HandedOffSuccess | [Details](#8428865b986c25045585c67477975957a055cd8d24)
+ [openpublishing\test\abtesting\UM-Cleanup-Content-Experiment.png](https://github.com/Microsoft/openpublishing-test/blob/65c9d0774bdffbe9be8931506783e8570bf1275a/openpublishing/test/abtesting/UM-Cleanup-Content-Experiment.png) | HandedOffSuccess | [Details](#683891ac1ac0ad3ef4a7076b18279b98c77a3f3f21)
+ [openpublishing\test\abtesting\users-manual-content.md](https://github.com/Microsoft/openpublishing-test/blob/e6bd1a702034e3c8d904da3ad7463954cb6a7ccb/openpublishing/test/abtesting/users-manual-content.md) | HandedOffSuccess | [Details](#13055e694da2baccb9129b79593b328fa4f82c4b24)
+ [openpublishing\test\TOC.md](https://github.com/Microsoft/openpublishing-test/blob/ee7acc1d135e917ee7db3dd33ed7941aa224c523/openpublishing/test/TOC.md) | HandedOffSuccess | [Details](#0f6e3655a6831c181e3c4d920e4e2a418a4f1db769)
 
 ## Item Details
-##### <a name='9880407fcee1bdacd4b99a78656f846b39beb4ce22'></a> Source: [openpublishing\test\abtesting\UM-New-Content-Experiment.png](https://github.com/Microsoft/openpublishing-test/blob/65c9d0774bdffbe9be8931506783e8570bf1275a/openpublishing/test/abtesting/UM-New-Content-Experiment.png)
+##### <a name='683891ac1ac0ad3ef4a7076b18279b98c77a3f3f21'></a> Source: [openpublishing\test\abtesting\UM-Cleanup-Content-Experiment.png](https://github.com/Microsoft/openpublishing-test/blob/65c9d0774bdffbe9be8931506783e8570bf1275a/openpublishing/test/abtesting/UM-Cleanup-Content-Experiment.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [9880407fcee1bdacd4b99a78656f846b39beb4ce.png](https://github.com/openpublish/openpublishing-handoff-test/blob/f6881a396a3e12f50d42969023a5eb9da26488d7/ol-handoff/openpublish/openpublishing-test.zh-cn/master/9880407fcee1bdacd4b99a78656f846b39beb4ce.png)
-* Handoff Datetime: 2016-05-26 09:52:23
+* Handoff File: [683891ac1ac0ad3ef4a7076b18279b98c77a3f3f.png](https://github.com/openpublish/openpublishing-handoff-test/blob/804c9e30189c1f194479ab99dabd12b715162d8a/ol-handoff/openpublish/openpublishing-test.zh-cn/master/683891ac1ac0ad3ef4a7076b18279b98c77a3f3f.png)
+* Handoff Datetime: 2016-05-26 14:53:19
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -24,24 +24,23 @@
 * Dependency From: openpublishing\test\abtesting\users-manual-content.md
 * [Back to Top](#report-top)
 
-##### <a name='807e1fd2ee56ea6d3cb6175a427b44b47145865223'></a> Source: [openpublishing\test\abtesting\UM-Prerequisite.png](https://github.com/Microsoft/openpublishing-test/blob/65c9d0774bdffbe9be8931506783e8570bf1275a/openpublishing/test/abtesting/UM-Prerequisite.png)
+##### <a name='13055e694da2baccb9129b79593b328fa4f82c4b24'></a> Source: [openpublishing\test\abtesting\users-manual-content.md](https://github.com/Microsoft/openpublishing-test/blob/e6bd1a702034e3c8d904da3ad7463954cb6a7ccb/openpublishing/test/abtesting/users-manual-content.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [807e1fd2ee56ea6d3cb6175a427b44b471458652.png](https://github.com/openpublish/openpublishing-handoff-test/blob/f6881a396a3e12f50d42969023a5eb9da26488d7/ol-handoff/openpublish/openpublishing-test.zh-cn/master/807e1fd2ee56ea6d3cb6175a427b44b471458652.png)
-* Handoff Datetime: 2016-05-26 09:52:23
-* Handoff Reason: IsDependency
+* Handoff File: [users-manual-content.b4aebd733aa89fe887cf8b8aa2ee374538ab72b8.zh-cn.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/804c9e30189c1f194479ab99dabd12b715162d8a/ol-handoff/openpublish/openpublishing-test.zh-cn/master/users-manual-content.b4aebd733aa89fe887cf8b8aa2ee374538ab72b8.zh-cn.xlf)
+* Handoff Datetime: 2016-05-26 14:53:19
+* Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: openpublishing\test\abtesting\users-manual-content.md
 * [Back to Top](#report-top)
 
-##### <a name='8428865b986c25045585c67477975957a055cd8d24'></a> Source: [openpublishing\test\abtesting\users-manual-content.md](https://github.com/Microsoft/openpublishing-test/blob/65c9d0774bdffbe9be8931506783e8570bf1275a/openpublishing/test/abtesting/users-manual-content.md)
+##### <a name='0f6e3655a6831c181e3c4d920e4e2a418a4f1db769'></a> Source: [openpublishing\test\TOC.md](https://github.com/Microsoft/openpublishing-test/blob/ee7acc1d135e917ee7db3dd33ed7941aa224c523/openpublishing/test/TOC.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [users-manual-content.b4aebd733aa89fe887cf8b8aa2ee374538ab72b8.zh-cn.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/f6881a396a3e12f50d42969023a5eb9da26488d7/ol-handoff/openpublish/openpublishing-test.zh-cn/master/users-manual-content.b4aebd733aa89fe887cf8b8aa2ee374538ab72b8.zh-cn.xlf)
-* Handoff Datetime: 2016-05-26 09:52:23
+* Handoff File: [TOC.aff33f4763a521dfe8256a4d8a4caf592c09b34b.zh-cn.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/804c9e30189c1f194479ab99dabd12b715162d8a/ol-handoff/openpublish/openpublishing-test.zh-cn/master/TOC.aff33f4763a521dfe8256a4d8a4caf592c09b34b.zh-cn.xlf)
+* Handoff Datetime: 2016-05-26 14:53:19
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00

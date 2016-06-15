@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [openpublishing\test\f1query\index.md](https://github.com/Microsoft/openpublishing-test/blob/c79b3653183b6acd5a5415d5e250abffa6e78f84/openpublishing/test/f1query/index.md) | HandedOffSuccess | [Details](#dbf24c9c15f3ce94bbf59e75306a47ed63cd04fa48)
+ [openpublishing\test\f1query\F1QueryIntegrationTest-1.md](https://github.com/Microsoft/openpublishing-test/blob/19c229e259a165dab9005254223f4089c5600580/openpublishing/test/f1query/F1QueryIntegrationTest-1.md) | HandedOffSuccess | [Details](#5d0a6359bd46c230b8f4c87634ac0001ed383bff48)
 
 ## Item Details
-##### <a name='dbf24c9c15f3ce94bbf59e75306a47ed63cd04fa48'></a> Source: [openpublishing\test\f1query\index.md](https://github.com/Microsoft/openpublishing-test/blob/c79b3653183b6acd5a5415d5e250abffa6e78f84/openpublishing/test/f1query/index.md)
+##### <a name='5d0a6359bd46c230b8f4c87634ac0001ed383bff48'></a> Source: [openpublishing\test\f1query\F1QueryIntegrationTest-1.md](https://github.com/Microsoft/openpublishing-test/blob/19c229e259a165dab9005254223f4089c5600580/openpublishing/test/f1query/F1QueryIntegrationTest-1.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [index.87419c3db469fda983e0d21da78034030aab1efe.zh-cn.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/866a3ba1c5bc25f26210b198c28ea610004173fe/ol-handoff/openpublish/openpublishing-test.zh-cn/master/index.87419c3db469fda983e0d21da78034030aab1efe.zh-cn.xlf)
-* Handoff Datetime: 2016-06-15 05:40:43
+* Handoff File: [F1QueryIntegrationTest-1.a955706bea62d947e29b3bc2ef3e7c8d75c7b462.zh-cn.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/62210ce19de69302305e3475744bd3fec1b18699/ol-handoff/openpublish/openpublishing-test.zh-cn/master/F1QueryIntegrationTest-1.a955706bea62d947e29b3bc2ef3e7c8d75c7b462.zh-cn.xlf)
+* Handoff Datetime: 2016-06-15 10:12:19
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00

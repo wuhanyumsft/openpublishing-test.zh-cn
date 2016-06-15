@@ -1,11 +1,26 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [openpublishing\test\f1query\index.md](https://github.com/Microsoft/openpublishing-test/blob/c79b3653183b6acd5a5415d5e250abffa6e78f84/openpublishing/test/f1query/index.md) | HandedOffSuccess | [Details](#dbf24c9c15f3ce94bbf59e75306a47ed63cd04fa48)
 
 ## Item Details
+##### <a name='dbf24c9c15f3ce94bbf59e75306a47ed63cd04fa48'></a> Source: [openpublishing\test\f1query\index.md](https://github.com/Microsoft/openpublishing-test/blob/c79b3653183b6acd5a5415d5e250abffa6e78f84/openpublishing/test/f1query/index.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [index.87419c3db469fda983e0d21da78034030aab1efe.zh-cn.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/866a3ba1c5bc25f26210b198c28ea610004173fe/ol-handoff/openpublish/openpublishing-test.zh-cn/master/index.87419c3db469fda983e0d21da78034030aab1efe.zh-cn.xlf)
+* Handoff Datetime: 2016-06-15 05:40:43
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
 
 ## Error Details
 

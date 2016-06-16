@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [openpublishing\test\f1query\F1QueryIntegrationTest-1.md](https://github.com/Microsoft/openpublishing-test/blob/fc12abec4056f8a825cf9b24ec92c03f795023a1/openpublishing/test/f1query/F1QueryIntegrationTest-1.md) | HandedOffSuccess | [Details](#3e967ce41143b8b9b674a87ee14a98b1dec4aaf048)
+ [openpublishing\test\f1query\F1QueryIntegrationTest-2.md](https://github.com/Microsoft/openpublishing-test/blob/403721645356c63c9d6e13e78f70ed4974a347be/openpublishing/test/f1query/F1QueryIntegrationTest-2.md) | HandedOffSuccess | [Details](#91339bda58185b79e06149572a68aba3bde46dc749)
 
 ## Item Details
-##### <a name='3e967ce41143b8b9b674a87ee14a98b1dec4aaf048'></a> Source: [openpublishing\test\f1query\F1QueryIntegrationTest-1.md](https://github.com/Microsoft/openpublishing-test/blob/fc12abec4056f8a825cf9b24ec92c03f795023a1/openpublishing/test/f1query/F1QueryIntegrationTest-1.md)
+##### <a name='91339bda58185b79e06149572a68aba3bde46dc749'></a> Source: [openpublishing\test\f1query\F1QueryIntegrationTest-2.md](https://github.com/Microsoft/openpublishing-test/blob/403721645356c63c9d6e13e78f70ed4974a347be/openpublishing/test/f1query/F1QueryIntegrationTest-2.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [F1QueryIntegrationTest-1.a955706bea62d947e29b3bc2ef3e7c8d75c7b462.zh-cn.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/6e9e15f0d70a1a448f5549550b5aa5f0a04688a1/ol-handoff/openpublish/openpublishing-test.zh-cn/master/F1QueryIntegrationTest-1.a955706bea62d947e29b3bc2ef3e7c8d75c7b462.zh-cn.xlf)
-* Handoff Datetime: 2016-06-16 03:42:19
+* Handoff File: [F1QueryIntegrationTest-2.9d5b370291294db723a8f0b82b12f8b3544cc0e6.zh-cn.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/05053659c499212d730f56fc6c834fdb32cdb986/ol-handoff/openpublish/openpublishing-test.zh-cn/master/F1QueryIntegrationTest-2.9d5b370291294db723a8f0b82b12f8b3544cc0e6.zh-cn.xlf)
+* Handoff Datetime: 2016-06-16 07:16:08
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00

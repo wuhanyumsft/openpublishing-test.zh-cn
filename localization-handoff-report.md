@@ -1,11 +1,29 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [openpublishing\test\abtesting\users-manual-content.md](https://github.com/Microsoft/openpublishing-test/blob/2b74048b8a326579303fa1d80818973db48c0740/openpublishing/test/abtesting/users-manual-content.md) | OutofSyncHandedBackSuccess | [Details](#9787781066568e31adf68f88f7e2df70a6c9d87333)
 
 ## Item Details
+##### <a name='9787781066568e31adf68f88f7e2df70a6c9d87333'></a> Source: [openpublishing\test\abtesting\users-manual-content.md](https://github.com/Microsoft/openpublishing-test/blob/2b74048b8a326579303fa1d80818973db48c0740/openpublishing/test/abtesting/users-manual-content.md)
+* Status: OutofSyncHandedBackSuccess
+* Target File: 
+* Handoff File: [users-manual-content.b4aebd733aa89fe887cf8b8aa2ee374538ab72b8.zh-cn.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/55163c8cad5dc0f851c79761947410bdf55af7fc/ol-handoff/openpublish/openpublishing-test.zh-cn/master/users-manual-content.b4aebd733aa89fe887cf8b8aa2ee374538ab72b8.zh-cn.xlf)
+* Handoff Datetime: 2016-06-24 01:45:00
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Current Target File: [openpublishing\test\abtesting\users-manual-content.md](https://github.com/openpublish/openpublishing-test.zh-cn/blob/945925eada2bc4bef914be2ad69be2ec7ee5ae81/openpublishing/test/abtesting/users-manual-content.md)
+* Current Handback File: [users-manual-content.b4aebd733aa89fe887cf8b8aa2ee374538ab72b8.zh-cn.xlf](https://github.com/openpublish/openpublishing-handback-test/blob/08b0eb2d24adbe2ed3f7480575d1ec14716514c1/ol-handback/openpublish/openpublishing-test.zh-cn/master/users-manual-content.b4aebd733aa89fe887cf8b8aa2ee374538ab72b8.zh-cn.xlf)
+* Current Handback Datetime: 2016-06-21 17:49:33
+* [Back to Top](#report-top)
+
 
 ## Error Details
 

@@ -5,10 +5,10 @@
  -------- | ----- 
  Total Files | 88
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 17
+[ Handoff Success Files ](#handoff-success-list)| 15
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
-[ Handback Failed Files ](#handback-failed-list)| 20
+[ Handback Failed Files ](#handback-failed-list)| 22
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 31
 [ In Sync Handback Files ](#insync-handback-success-list)| 0
 [ Ignored Files ](#ignored-list)| 20
@@ -20,8 +20,6 @@
  ----------- | ------ | ------- 
  [openpublishing\test\abtesting\UM-AB-Portal-Metric-Report-Config.png](https://github.com/Microsoft/openpublishing-test/blob/b0a6781e51aca147e972d8ba7508b58a498bf57d/openpublishing/test/abtesting/UM-AB-Portal-Metric-Report-Config.png) | HandedOffSuccess | [Details](#b08419de5c61576d8cba079b263d09c14176abf124)
  [openpublishing\test\abtesting\UM-AB-Portal-Metric-Report-Result.png](https://github.com/Microsoft/openpublishing-test/blob/b0a6781e51aca147e972d8ba7508b58a498bf57d/openpublishing/test/abtesting/UM-AB-Portal-Metric-Report-Result.png) | HandedOffSuccess | [Details](#e0a2cfb0f44f0ca1730d147d6ce0c7bbf12677c825)
- [openpublishing\test\abtesting\UM-AB-Portal-Metrics-Result.png](https://github.com/Microsoft/openpublishing-test/blob/b0a6781e51aca147e972d8ba7508b58a498bf57d/openpublishing/test/abtesting/UM-AB-Portal-Metrics-Result.png) | HandedOffSuccess | [Details](#2e32dcb5e35020dafe50b8524c2faa1f98987d2727)
- [openpublishing\test\conceptual\Image\ATA_Domain_Connectivity_User.JPG](https://github.com/Microsoft/openpublishing-test/blob/8680111b305d2e9d628bdfb225b5789daedc9930/openpublishing/test/conceptual/Image/ATA_Domain_Connectivity_User.JPG) | HandedOffSuccess | [Details](#5381c4c0d584f8697c8053ef5c9ee7b1ab576be338)
  [openpublishing\test\f1query\f1_vbaac10.chm13359_csharp_v15_en-us.md](https://github.com/Microsoft/openpublishing-test/blob/281e9c2f04a72d068d5b31c82e90712d664f82fb/openpublishing/test/f1query/f1_vbaac10.chm13359_csharp_v15_en-us.md) | HandedOffSuccess | [Details](#1862565c19ca6d0ab195d0295a4c5e48f2477b2e48)
  [openpublishing\test\f1query\f1_vbaac10.chm13359_csharp_v15_zh-cn.md](https://github.com/Microsoft/openpublishing-test/blob/281e9c2f04a72d068d5b31c82e90712d664f82fb/openpublishing/test/f1query/f1_vbaac10.chm13359_csharp_v15_zh-cn.md) | HandedOffSuccess | [Details](#421d7308d929a41b426f670829c673a49e72e5c649)
  [openpublishing\test\f1query\f1_vbaac10.chm13359_csharp_v16_en-us.md](https://github.com/Microsoft/openpublishing-test/blob/281e9c2f04a72d068d5b31c82e90712d664f82fb/openpublishing/test/f1query/f1_vbaac10.chm13359_csharp_v16_en-us.md) | HandedOffSuccess | [Details](#e564137b41b7a1081148898dfd2e824500175bb850)
@@ -52,6 +50,7 @@
  [openpublishing\test\abtesting\UM-AB-Portal-Experiments-Action.png](https://github.com/Microsoft/openpublishing-test/blob/b0a6781e51aca147e972d8ba7508b58a498bf57d/openpublishing/test/abtesting/UM-AB-Portal-Experiments-Action.png) | HandedBackFailed | [Details](#7a5f1d3027f5c404b1d0b5f7e5a13859c98f714422)
  [openpublishing\test\abtesting\UM-AB-Portal-Metrics.png](https://github.com/Microsoft/openpublishing-test/blob/b0a6781e51aca147e972d8ba7508b58a498bf57d/openpublishing/test/abtesting/UM-AB-Portal-Metrics.png) | HandedBackFailed | [Details](#fdefdf4e0c5a990e26aa3bfa0feb5e9b770eed1e28)
  [openpublishing\test\abtesting\UM-AB-Portal-Metrics-Config.png](https://github.com/Microsoft/openpublishing-test/blob/9bce633743bdade7f7d4b7a82ae424c7204dcaee/openpublishing/test/abtesting/UM-AB-Portal-Metrics-Config.png) | HandedBackFailed | [Details](#3ef8bdc8c711e0d812939e0839510959e135cbf226)
+ [openpublishing\test\abtesting\UM-AB-Portal-Metrics-Result.png](https://github.com/Microsoft/openpublishing-test/blob/b0a6781e51aca147e972d8ba7508b58a498bf57d/openpublishing/test/abtesting/UM-AB-Portal-Metrics-Result.png) | HandedBackFailed | [Details](#2e32dcb5e35020dafe50b8524c2faa1f98987d2727)
  [openpublishing\test\abtesting\UM-Cleanup-Content-Experiment.png](https://github.com/Microsoft/openpublishing-test/blob/65c9d0774bdffbe9be8931506783e8570bf1275a/openpublishing/test/abtesting/UM-Cleanup-Content-Experiment.png) | HandedBackFailed | [Details](#683891ac1ac0ad3ef4a7076b18279b98c77a3f3f29)
  [openpublishing\test\abtesting\UM-New-Content-Experiment.png](https://github.com/Microsoft/openpublishing-test/blob/65c9d0774bdffbe9be8931506783e8570bf1275a/openpublishing/test/abtesting/UM-New-Content-Experiment.png) | HandedBackFailed | [Details](#9880407fcee1bdacd4b99a78656f846b39beb4ce30)
  [openpublishing\test\abtesting\UM-OP-Portal.png](https://github.com/Microsoft/openpublishing-test/blob/9bce633743bdade7f7d4b7a82ae424c7204dcaee/openpublishing/test/abtesting/UM-OP-Portal.png) | HandedBackFailed | [Details](#6b9ff10a197ad5bb1849ccd5eba49a57e7dd20a031)
@@ -59,6 +58,7 @@
  [openpublishing\test\conceptual\Image\ATA_Center_Configuration.JPG](https://github.com/Microsoft/openpublishing-test/blob/8680111b305d2e9d628bdfb225b5789daedc9930/openpublishing/test/conceptual/Image/ATA_Center_Configuration.JPG) | HandedBackFailed | [Details](#377436ada10ce7d4412b6b256396ea85ad93c5af35)
  [openpublishing\test\conceptual\Image\ATA_Config_GW_Settings.jpg](https://github.com/Microsoft/openpublishing-test/blob/8680111b305d2e9d628bdfb225b5789daedc9930/openpublishing/test/conceptual/Image/ATA_Config_GW_Settings.jpg) | HandedBackFailed | [Details](#28b811e014fbf38741d81c7418c6bb70ead5df7436)
  [openpublishing\test\conceptual\Image\ATA_config_icon.JPG](https://github.com/Microsoft/openpublishing-test/blob/8680111b305d2e9d628bdfb225b5789daedc9930/openpublishing/test/conceptual/Image/ATA_config_icon.JPG) | HandedBackFailed | [Details](#28bff0237cf9625b464859bd7f3dc309779c7fcb37)
+ [openpublishing\test\conceptual\Image\ATA_Domain_Connectivity_User.JPG](https://github.com/Microsoft/openpublishing-test/blob/8680111b305d2e9d628bdfb225b5789daedc9930/openpublishing/test/conceptual/Image/ATA_Domain_Connectivity_User.JPG) | HandedBackFailed | [Details](#5381c4c0d584f8697c8053ef5c9ee7b1ab576be338)
  [openpublishing\test\conceptual\Image\ATA_Gateway_Configuration.JPG](https://github.com/Microsoft/openpublishing-test/blob/8680111b305d2e9d628bdfb225b5789daedc9930/openpublishing/test/conceptual/Image/ATA_Gateway_Configuration.JPG) | HandedBackFailed | [Details](#b79a81b193f258cfee46d1a6478d89e46c7eecdc39)
  [openpublishing\test\conceptual\Image\ATA_performance_monitoring_add_counters.png](https://github.com/Microsoft/openpublishing-test/blob/8680111b305d2e9d628bdfb225b5789daedc9930/openpublishing/test/conceptual/Image/ATA_performance_monitoring_add_counters.png) | HandedBackFailed | [Details](#bb82c0e8ef39951a2f35466d9912fe622fdac06e40)
  [openpublishing\test\conceptual\Image\ATA_VPN_Subnets.JPG](https://github.com/Microsoft/openpublishing-test/blob/8680111b305d2e9d628bdfb225b5789daedc9930/openpublishing/test/conceptual/Image/ATA_VPN_Subnets.JPG) | HandedBackFailed | [Details](#ce4a21e892357049d70b5ff1aa708547ca715b1741)
@@ -482,7 +482,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='2e32dcb5e35020dafe50b8524c2faa1f98987d2727'></a> Source: [openpublishing\test\abtesting\UM-AB-Portal-Metrics-Result.png](https://github.com/Microsoft/openpublishing-test/blob/b0a6781e51aca147e972d8ba7508b58a498bf57d/openpublishing/test/abtesting/UM-AB-Portal-Metrics-Result.png)
-* Status: HandedOffSuccess
+* Status: HandedBackFailed
 * Target File: 
 * Handoff File: [2e32dcb5e35020dafe50b8524c2faa1f98987d27.png](https://github.com/openpublish/openpublishing-handoff-test/blob/a67116eca3c162d31dbc4026d37a39012eda42a9/ol-handoff/openpublish/openpublishing-test.zh-cn/master/2e32dcb5e35020dafe50b8524c2faa1f98987d27.png)
 * Handoff Datetime: 2016-06-12 02:31:51
@@ -620,7 +620,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='5381c4c0d584f8697c8053ef5c9ee7b1ab576be338'></a> Source: [openpublishing\test\conceptual\Image\ATA_Domain_Connectivity_User.JPG](https://github.com/Microsoft/openpublishing-test/blob/8680111b305d2e9d628bdfb225b5789daedc9930/openpublishing/test/conceptual/Image/ATA_Domain_Connectivity_User.JPG)
-* Status: HandedOffSuccess
+* Status: HandedBackFailed
 * Target File: 
 * Handoff File: [5381c4c0d584f8697c8053ef5c9ee7b1ab576be3.JPG](https://github.com/openpublish/openpublishing-handoff-test/blob/f61ad26fa501d77896e37e118a25e5a29864c268/ol-handoff/openpublish/openpublishing-test.zh-cn/master/5381c4c0d584f8697c8053ef5c9ee7b1ab576be3.JPG)
 * Handoff Datetime: 2016-05-25 07:50:46
@@ -630,6 +630,7 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Error: [handback_transform_failed](#5381c4c0d584f8697c8053ef5c9ee7b1ab576be338handback_transform_failed)
 * [Back to Top](#report-top)
 
 ##### <a name='b79a81b193f258cfee46d1a6478d89e46c7eecdc39'></a> Source: [openpublishing\test\conceptual\Image\ATA_Gateway_Configuration.JPG](https://github.com/Microsoft/openpublishing-test/blob/8680111b305d2e9d628bdfb225b5789daedc9930/openpublishing/test/conceptual/Image/ATA_Gateway_Configuration.JPG)
@@ -1315,6 +1316,12 @@
 * Error Message: Handback file: C:\ol\master\opt.handback\2be177\ol-handback\openpublish\openpublishing-test.zh-cn\master\28bff0237cf9625b464859bd7f3dc309779c7fcb.JPG failed.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_transform_failed","internal_error_message":"Handback file: C:\\ol\\master\\opt.handback\\2be177\\ol-handback\\openpublish\\openpublishing-test.zh-cn\\master\\28bff0237cf9625b464859bd7f3dc309779c7fcb.JPG failed.","internal_error_retriable":false,"exception_message":"Invalid character in the given encoding. Line 1, position 1.","exception_type":"System.Xml.XmlException","stack_trace":"   at System.Xml.XmlTextReaderImpl.Throw(Exception e)\r\n   at System.Xml.XmlTextReaderImpl.InvalidCharRecovery(Int32& bytesCount, Int32& charsCount)\r\n   at System.Xml.XmlTextReaderImpl.GetChars(Int32 maxCharsCount)\r\n   at System.Xml.XmlTextReaderImpl.ReadData()\r\n   at System.Xml.XmlTextReaderImpl.ParseXmlDeclaration(Boolean isTextDecl)\r\n   at System.Xml.XmlTextReaderImpl.Read()\r\n   at System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)\r\n   at System.Xml.Linq.XDocument.Load(String uri, LoadOptions options)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.ValidateHandbackFile(TranslationStateItem translationStateItem, String filePath, String handbackPriority, String handoffFilePath) in C:\\Jenkins\\workspace\\OpenLocalization-Prod\\src\\OpenLocalization\\Localization\\HandbackCore.cs:line 205\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass5_0.<GetHandbackFiles>b__0(String file) in C:\\Jenkins\\workspace\\OpenLocalization-Prod\\src\\OpenLocalization\\Localization\\HandbackCore.cs:line 396","extended_information":null}
+
+##### <a name='5381c4c0d584f8697c8053ef5c9ee7b1ab576be338handback_transform_failed'></a> Source: [openpublishing\test\conceptual\Image\ATA_Domain_Connectivity_User.JPG](#5381c4c0d584f8697c8053ef5c9ee7b1ab576be338)
+* Error Code: handback_transform_failed
+* Error Message: Handback file: C:\ol\master\opt.handback\2be177\ol-handback\openpublish\openpublishing-test.zh-cn\master\5381c4c0d584f8697c8053ef5c9ee7b1ab576be3.JPG failed.
+* Retriable: False
+* Error Details: {"internal_error_code":"handback_transform_failed","internal_error_message":"Handback file: C:\\ol\\master\\opt.handback\\2be177\\ol-handback\\openpublish\\openpublishing-test.zh-cn\\master\\5381c4c0d584f8697c8053ef5c9ee7b1ab576be3.JPG failed.","internal_error_retriable":false,"exception_message":"Invalid character in the given encoding. Line 1, position 1.","exception_type":"System.Xml.XmlException","stack_trace":"   at System.Xml.XmlTextReaderImpl.Throw(Exception e)\r\n   at System.Xml.XmlTextReaderImpl.InvalidCharRecovery(Int32& bytesCount, Int32& charsCount)\r\n   at System.Xml.XmlTextReaderImpl.GetChars(Int32 maxCharsCount)\r\n   at System.Xml.XmlTextReaderImpl.ReadData()\r\n   at System.Xml.XmlTextReaderImpl.ParseXmlDeclaration(Boolean isTextDecl)\r\n   at System.Xml.XmlTextReaderImpl.Read()\r\n   at System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)\r\n   at System.Xml.Linq.XDocument.Load(String uri, LoadOptions options)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.ValidateHandbackFile(TranslationStateItem translationStateItem, String filePath, String handbackPriority, String handoffFilePath) in C:\\Jenkins\\workspace\\OpenLocalization-Prod\\src\\OpenLocalization\\Localization\\HandbackCore.cs:line 205\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass5_0.<GetHandbackFiles>b__0(String file) in C:\\Jenkins\\workspace\\OpenLocalization-Prod\\src\\OpenLocalization\\Localization\\HandbackCore.cs:line 396","extended_information":null}
 
 ##### <a name='b79a81b193f258cfee46d1a6478d89e46c7eecdc39handback_transform_failed'></a> Source: [openpublishing\test\conceptual\Image\ATA_Gateway_Configuration.JPG](#b79a81b193f258cfee46d1a6478d89e46c7eecdc39)
 * Error Code: handback_transform_failed

@@ -1,35 +1,58 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 2
+ Total Files | 4
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [openpublishing\test\hubpage\index.md](https://github.com/Microsoft/openpublishing-test/blob/38a7d023dce193c55509cb7058192957f826a3c4/openpublishing/test/hubpage/index.md) | OutofSyncHandedBackSuccess | [Details](#b44b882c6b4382abdb108471d9a18b08aabf481a59)
- [openpublishing\test\hubpage\msdn.md](https://github.com/Microsoft/openpublishing-test/blob/bf0e9a516bf34d369866835691530b56968e4eac/openpublishing/test/hubpage/msdn.md) | HandedOffSuccess | [Details](#28f160393d0bbd874a24bb765a7ac0dfae828f8860)
+ [openpublishing\test\f1query\f1_vbaac10.chm13359_csharp.md](https://github.com/Microsoft/openpublishing-test/blob/50c870ab1de7269c24842cbc624a611e142954a1/openpublishing/test/f1query/f1_vbaac10.chm13359_csharp.md) | HandedOffSuccess | [Details](#265c933fc20b14ef79b000c564889a3d88ea6a9d48)
+ [openpublishing\test\f1query\f1_vbaac10.chm13359_fsharp.md](https://github.com/Microsoft/openpublishing-test/blob/50c870ab1de7269c24842cbc624a611e142954a1/openpublishing/test/f1query/f1_vbaac10.chm13359_fsharp.md) | HandedOffSuccess | [Details](#38c8105f4fbb0dfec22e6e51f869227c97f71e4d49)
+ [openpublishing\test\f1query\f1_vblr6.chm50006_csharp.md](https://github.com/Microsoft/openpublishing-test/blob/adbce97a72df87e2e6fe156bcfaa8dcdb4a7607f/openpublishing/test/f1query/f1_vblr6.chm50006_csharp.md) | HandedOffSuccess | [Details](#e2aed9302c7cb8e539ce56533550f9fa41d6b3dd50)
+ [openpublishing\test\f1query\index.md](https://github.com/Microsoft/openpublishing-test/blob/50c870ab1de7269c24842cbc624a611e142954a1/openpublishing/test/f1query/index.md) | HandedOffSuccess | [Details](#627bd46f965e770d57e56efac4a2288b99168e6851)
 
 ## Item Details
-##### <a name='b44b882c6b4382abdb108471d9a18b08aabf481a59'></a> Source: [openpublishing\test\hubpage\index.md](https://github.com/Microsoft/openpublishing-test/blob/38a7d023dce193c55509cb7058192957f826a3c4/openpublishing/test/hubpage/index.md)
-* Status: OutofSyncHandedBackSuccess
+##### <a name='265c933fc20b14ef79b000c564889a3d88ea6a9d48'></a> Source: [openpublishing\test\f1query\f1_vbaac10.chm13359_csharp.md](https://github.com/Microsoft/openpublishing-test/blob/50c870ab1de7269c24842cbc624a611e142954a1/openpublishing/test/f1query/f1_vbaac10.chm13359_csharp.md)
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [index.e680af2eb257e7b4b907a3e7e3364826a5f7ad25.zh-cn.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/b73ce61a268b8540c85fe1bd2b6bc9e8bcaa77a6/ol-handoff/openpublish/openpublishing-test.zh-cn/master/index.e680af2eb257e7b4b907a3e7e3364826a5f7ad25.zh-cn.xlf)
-* Handoff Datetime: 2016-07-11 06:49:31
+* Handoff File: [f1_vbaac10.chm13359_csharp.eecd1694aa12ddc6d28254ec2c24e9ae63d156f1.zh-cn.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/c353d8b68a4b5800036f8406d03fc4cd35204601/ol-handoff/openpublish/openpublishing-test.zh-cn/master/f1_vbaac10.chm13359_csharp.eecd1694aa12ddc6d28254ec2c24e9ae63d156f1.zh-cn.xlf)
+* Handoff Datetime: 2016-07-11 07:46:59
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [openpublishing\test\hubpage\index.md](https://github.com/openpublish/openpublishing-test.zh-cn/blob/945925eada2bc4bef914be2ad69be2ec7ee5ae81/openpublishing/test/hubpage/index.md)
-* Current Handback File: [index.e680af2eb257e7b4b907a3e7e3364826a5f7ad25.zh-cn.xlf](https://github.com/openpublish/openpublishing-handback-test/blob/08b0eb2d24adbe2ed3f7480575d1ec14716514c1/ol-handback/openpublish/openpublishing-test.zh-cn/master/index.e680af2eb257e7b4b907a3e7e3364826a5f7ad25.zh-cn.xlf)
-* Current Handback Datetime: 2016-06-21 17:49:33
 * [Back to Top](#report-top)
 
-##### <a name='28f160393d0bbd874a24bb765a7ac0dfae828f8860'></a> Source: [openpublishing\test\hubpage\msdn.md](https://github.com/Microsoft/openpublishing-test/blob/bf0e9a516bf34d369866835691530b56968e4eac/openpublishing/test/hubpage/msdn.md)
+##### <a name='38c8105f4fbb0dfec22e6e51f869227c97f71e4d49'></a> Source: [openpublishing\test\f1query\f1_vbaac10.chm13359_fsharp.md](https://github.com/Microsoft/openpublishing-test/blob/50c870ab1de7269c24842cbc624a611e142954a1/openpublishing/test/f1query/f1_vbaac10.chm13359_fsharp.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [msdn.de28cca66842bd8f2e58e75685f37e825f005856.zh-cn.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/b73ce61a268b8540c85fe1bd2b6bc9e8bcaa77a6/ol-handoff/openpublish/openpublishing-test.zh-cn/master/msdn.de28cca66842bd8f2e58e75685f37e825f005856.zh-cn.xlf)
-* Handoff Datetime: 2016-07-11 06:49:31
+* Handoff File: [f1_vbaac10.chm13359_fsharp.62ef3f6348194cd0b6292711574008836c224c43.zh-cn.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/c353d8b68a4b5800036f8406d03fc4cd35204601/ol-handoff/openpublish/openpublishing-test.zh-cn/master/f1_vbaac10.chm13359_fsharp.62ef3f6348194cd0b6292711574008836c224c43.zh-cn.xlf)
+* Handoff Datetime: 2016-07-11 07:46:59
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='e2aed9302c7cb8e539ce56533550f9fa41d6b3dd50'></a> Source: [openpublishing\test\f1query\f1_vblr6.chm50006_csharp.md](https://github.com/Microsoft/openpublishing-test/blob/adbce97a72df87e2e6fe156bcfaa8dcdb4a7607f/openpublishing/test/f1query/f1_vblr6.chm50006_csharp.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [f1_vblr6.chm50006_csharp.99bacaa8bf7ec369f02e87cf95dcf3c2503d0dbd.zh-cn.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/c353d8b68a4b5800036f8406d03fc4cd35204601/ol-handoff/openpublish/openpublishing-test.zh-cn/master/f1_vblr6.chm50006_csharp.99bacaa8bf7ec369f02e87cf95dcf3c2503d0dbd.zh-cn.xlf)
+* Handoff Datetime: 2016-07-11 07:46:59
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='627bd46f965e770d57e56efac4a2288b99168e6851'></a> Source: [openpublishing\test\f1query\index.md](https://github.com/Microsoft/openpublishing-test/blob/50c870ab1de7269c24842cbc624a611e142954a1/openpublishing/test/f1query/index.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [index.87419c3db469fda983e0d21da78034030aab1efe.zh-cn.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/c353d8b68a4b5800036f8406d03fc4cd35204601/ol-handoff/openpublish/openpublishing-test.zh-cn/master/index.87419c3db469fda983e0d21da78034030aab1efe.zh-cn.xlf)
+* Handoff Datetime: 2016-07-11 07:46:59
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00

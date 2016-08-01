@@ -1,32 +1,19 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 2
+ Total Files | 1
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [openpublishing\test\conceptual\long-in-page-toc.md](https://github.com/Microsoft/openpublishing-test/blob/5f7f5f4557cd856ed04b831b79907f280309ec44/openpublishing/test/conceptual/long-in-page-toc.md) | HandedOffSuccess | [Details](#1823b566ff33a3906090adc8195f79bf2316e2d745)
- [openpublishing\test\TOC.md](https://github.com/Microsoft/openpublishing-test/blob/5f7f5f4557cd856ed04b831b79907f280309ec44/openpublishing/test/TOC.md) | OutofSyncHandedBackSuccess | [Details](#eaa767b790b300e6b9e6b36c15a335dbd50fcf6f117)
+ [openpublishing\test\TOC.md](https://github.com/Microsoft/openpublishing-test/blob/b8245d10d6bd665f57b96234191b903aff568309/openpublishing/test/TOC.md) | OutofSyncHandedBackSuccess | [Details](#37d041d98f93f71669a339052e84863c43fce355117)
 
 ## Item Details
-##### <a name='1823b566ff33a3906090adc8195f79bf2316e2d745'></a> Source: [openpublishing\test\conceptual\long-in-page-toc.md](https://github.com/Microsoft/openpublishing-test/blob/5f7f5f4557cd856ed04b831b79907f280309ec44/openpublishing/test/conceptual/long-in-page-toc.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [long-in-page-toc.130b5915528c06011ca6a60e745a20247a172368.zh-cn.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/49b65cfa819f9b49fd6ddacda459f40d74aac07e/ol-handoff/openpublish/openpublishing-test.zh-cn/master/long-in-page-toc.130b5915528c06011ca6a60e745a20247a172368.zh-cn.xlf)
-* Handoff Datetime: 2016-07-30 08:11:24
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='eaa767b790b300e6b9e6b36c15a335dbd50fcf6f117'></a> Source: [openpublishing\test\TOC.md](https://github.com/Microsoft/openpublishing-test/blob/5f7f5f4557cd856ed04b831b79907f280309ec44/openpublishing/test/TOC.md)
+##### <a name='37d041d98f93f71669a339052e84863c43fce355117'></a> Source: [openpublishing\test\TOC.md](https://github.com/Microsoft/openpublishing-test/blob/b8245d10d6bd665f57b96234191b903aff568309/openpublishing/test/TOC.md)
 * Status: OutofSyncHandedBackSuccess
 * Target File: 
-* Handoff File: [TOC.aff33f4763a521dfe8256a4d8a4caf592c09b34b.zh-cn.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/49b65cfa819f9b49fd6ddacda459f40d74aac07e/ol-handoff/openpublish/openpublishing-test.zh-cn/master/TOC.aff33f4763a521dfe8256a4d8a4caf592c09b34b.zh-cn.xlf)
-* Handoff Datetime: 2016-07-30 08:11:24
+* Handoff File: [TOC.aff33f4763a521dfe8256a4d8a4caf592c09b34b.zh-cn.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/dddf301004a56769b009c1ce71b81a077a8ade11/ol-handoff/openpublish/openpublishing-test.zh-cn/master/TOC.aff33f4763a521dfe8256a4d8a4caf592c09b34b.zh-cn.xlf)
+* Handoff Datetime: 2016-08-01 03:11:23
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00

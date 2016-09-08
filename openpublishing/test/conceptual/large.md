@@ -230,7 +230,7 @@ ATA 网关服务器上执行以下步骤。
 
    ![](./Image/ATA_performance_monitoring_add_counters.png)
 
-### <a name="ATAvpnHoneytokensetting"></a>步骤 6。 配置短期租约子网和蜜标用户
+## <a name="ATAvpnHoneytokensetting"></a>步骤 6。 配置短期租约子网和蜜标用户
 短期租约子网是子网中 IP 地址分配发生迅速更改-秒或几分钟内。 例如，IP 地址用于您的 Vpn 和 Wi-fi IP 地址。 若要输入您的组织中使用的短期租约子网的列表，请按照下列步骤 ︰
 
 1. 从 ATA 网关计算机上的 ATA 控制台中，单击设置图标并选择 **配置**。
